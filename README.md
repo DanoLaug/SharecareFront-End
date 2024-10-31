@@ -16,15 +16,15 @@ This project replicates the registration page of Sharecare, implementing respons
 4.-Styling with Material-UI: Styled components to closely match the original Sharecare design.
 Dimensions: Responsive
 
-![image](https://github.com/user-attachments/assets/9bee5857-b94a-41ef-a5f8-58bce53bf06f)
+![image](https://github.com/user-attachments/assets/db49b8bc-c780-42f4-b094-0de9c1cec5d6)
 
 Dimensions: Samsung Galaxy S20 Ultra
 
-![image](https://github.com/user-attachments/assets/0ee92265-c6c4-41f0-a120-fba908f9fe1e)
+![image](https://github.com/user-attachments/assets/0677afb8-1b08-41ed-84e0-d8f324affbb6)
 
 Dimensions: iPhone 14 Pro Max
 
-![image](https://github.com/user-attachments/assets/57bdab84-d6cd-4754-b997-0d08ed8836fa)
+![image](https://github.com/user-attachments/assets/56447a85-592a-43d1-91b7-0ad6485a2d8b)
 
 #Technologies
 1.-React: A JavaScript library for building user interfaces.
@@ -56,12 +56,11 @@ To manually test the form submission, follow these steps:
 
 Filled Register
 
-![image](https://github.com/user-attachments/assets/752c4beb-c04a-4f86-a9f1-059c31febe00)
+![image](https://github.com/user-attachments/assets/5600a079-3bfb-4425-8ac8-5ea0dc2c62f7)
 
 Terminal Result
 
-![image](https://github.com/user-attachments/assets/606c1fe8-534c-4f6b-96b5-2252a982db58)
-
+![image](https://github.com/user-attachments/assets/89b43ef6-0bde-41aa-935b-72b26ffe7964)
 
 #Test Cases
 The following test cases are included:
@@ -71,4 +70,5 @@ The following test cases are included:
 
 Validation check
 
-![image](https://github.com/user-attachments/assets/1c2241d0-7280-4694-b4bc-0784f93feac5)
+![image](https://github.com/user-attachments/assets/417fecdb-1ec0-4f2a-ac31-3f287f0b8e66)
+
